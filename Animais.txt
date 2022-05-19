@@ -1,0 +1,274 @@
+100% Terrestre
+| Doméstico
+| | Estimação
+| | | Roedor
+| | | | Espinhos
+| | | | | > Ouriço-Cacheiro <
+| | | | n/Espinhos
+| | | | | Corpo Longo
+| | | | | | > Furão <
+| | | | | n/Corpo Longo
+| | | | | | Cauda
+| | | | | | | Cauda Peluda
+| | | | | | | | Come Bolotas
+| | | | | | | | | > Esquilo <
+| | | | | | | | n/Come Bolotas
+| | | | | | | | | Orelhas grandes
+| | | | | | | | | | > Coelho <
+| | | | | | | | | n/Orelhas grandes
+| | | | | | | | | | > Chinchilla <
+| | | | | | | n/Cauda Peluda
+| | | | | | | | > Rato <
+| | | | | | n/Cauda
+| | | | | | | India no Nome
+| | | | | | | | > Porquinho da India <
+| | | | | | | n/India no Nome
+| | | | | | | | > Hamster <
+| | | n/Roedor
+| | | | Bigode Longos
+| | | | | Cauda Curta
+| | | | | | > Coelho <
+| | | | | n/Cauda Curta
+| | | | | | > Gato <
+| | | | n/Bigode Longos
+| | | | | > Cão <
+| | n/Estimação
+| | | Quinta
+| | | | Cornos
+| | | | | Barba
+| | | | | | > Cabra <
+| | | | | n/Barba
+| | | | | | Leite
+| | | | | | | > Vaca <
+| | | | | | n/Leite
+| | | | | | | Lã
+| | | | | | | | > Carneiro <
+| | | | | | | n/Lã
+| | | | | | | | > Boi <
+| | | | n/Cornos
+| | | | | Transporte
+| | | | | | Falta de Inteligencia
+| | | | | | | Infertil
+| | | | | | | | > Mula <
+| | | | | | | n/Fertil
+| | | | | | | | > Burro <
+| | | | | | n/Falta de Inteligencia
+| | | | | | | Grande Porte
+| | | | | | | | Leite
+| | | | | | | | | > Egua <
+| | | | | | | | n/Leite
+| | | | | | | | | > Cavalo <
+| | | | | | | n/Grande Porte
+| | | | | | | | > Ponei <
+| | | | | n/Transporte
+| | | | | | Herbívoros
+| | | | | | | Pequeno Porte
+| | | | | | | | > Coelho <
+| | | | | | | n/Pequeno Porte
+| | | | | | | | > Ovelha <
+| | | | | | n/Herbívoros
+| | | | | | | Pastoreio
+| | | | | | | | > Cão <
+| | | | | | | n/Pastoreio
+| | | | | | | | > Porco <
+| | | n/Quinta
+| | | | Deserto
+| | | | | +1 Bossas
+| | | | | | > Camelo <
+| | | | | n/+1 Bossas
+| | | | | | > Dromedário <
+| | | | n/Deserto
+| | | | | Lã
+| | | | | | Orelhas pontiagudas
+| | | | | | | > Lhama <
+| | | | | | n/Orealhas pontiagudas
+| | | | | | | > Alpaca <
+| | | | | n/Lã
+| | | | | | Cornos
+| | | | | | | > Bufalo <
+| | | | | | n/Cornos
+| | | | | | | > Raposa <
+| n/Domestico
+| | Herbivoro
+| | | Galhadas
+| | | | Galhada Pequena
+| | | | | > Corço <
+| | | | n/Galhada Pequena
+| | | | | Cauda Pequena
+| | | | | | Ambos os generos tem galhadas
+| | | | | | | > Rena <
+| | | | | | n/Ambos os generos tem galhadas
+| | | | | | | Pelagem escura
+| | | | | | | | > Alce <
+| | | | | | | n/Pelagem escura
+| | | | | | | | Riscas brancas na garganta
+| | | | | | | | | > Antilocapra <
+| | | | | | | | n/Riscas brancas na garganta
+| | | | | | | | | > Veado <
+| | | | | n/Cauda Pequena
+| | | | | | > Gamo <
+| | | n/Galhadas
+| | | | Cornos
+| | | | | Cornos no nariz
+| | | | | | > Rinoceronte <
+| | | | | n/Cornos no nariz
+| | | | | | Cornos grandes
+| | | | | | | Savana
+| | | | | | | | Velocidade
+| | | | | | | | | Stotting
+| | | | | | | | | | > Gazela <
+| | | | | | | | | n/Stotting
+| | | | | | | | | | > Impala <
+| | | | | | | | n/Velocidade
+| | | | | | | | | Cornos retos
+| | | | | | | | | | > Órix <
+| | | | | | | | | n/Cornos retos
+| | | | | | | | | | Cornos curvos para trás
+| | | | | | | | | | | > Palanca <
+| | | | | | | | | | n/Cornos curvos para trás
+| | | | | | | | | | | > Cobo <
+| | | | | | | n/Savana
+| | | | | | | | Cornos espirais
+| | | | | | | | | > Muflão <
+| | | | | | | | n/Cornos espirais
+| | | | | | | | | Riscas
+| | | | | | | | | | > Bongo <
+| | | | | | | | | n/Riscas
+| | | | | | | | | |> Bufalo <
+| | | | | | n/Cornos grandes
+| | | | | | | Pescoço longo
+| | | | | | | | > Girafa <
+| | | | | | | n/Pescoço longo
+| | | | | | | | Montanha
+| | | | | | | | | Barba
+| | | | | | | | | | > Cabra <
+| | | | | | | | | n/Barba
+| | | | | | | | | | > Camurça <
+| | | | | | | | n/Montanha
+| | | | | | | | | Corpo com riscas
+| | | | | | | | | | Riscas brancas e pretas
+| | | | | | | | | | | > Ocapi <
+| | | | | | | | | | n/Riscas brancas e pretas
+| | | | | | | | | | | > Gnu <
+| | | | | | | | | n/Corpo com riscas
+| | | | | | | | | | > Bisonte <
+| | | | n/Cornos
+| | | | | Menos de 1m
+| | | | | | Braços Longos
+| | | | | | | Lento
+| | | | | | | | > Preguiça <
+| | | | | | | n/Lento
+| | | | | | | | > Gibão <
+| | | | | | n/Braços Longos
+| | | | | | | Arvores
+| | | | | | | | > Coala <
+| | | | | | | n/Arvores
+| | | | | | | | Presas
+| | | | | | | | | > Facocero <
+| | | | | | | | n/Presas
+| | | | | | | | | Orelhas grandes
+| | | | | | | | | | > Lebre <
+| | | | | | | | | n/Orelhas grandes
+| | | | | | | | | | Roedor
+| | | | | | | | | | | Cauda
+| | | | | | | | | | | | Espinhos
+| | | | | | | | | | | | | > Ouriço-Cacheiro <
+| | | | | | | | | | | | n/Espinhos
+| | | | | | | | | | | | | Cauda curta
+| | | | | | | | | | | | | | > Cão-da-Pradaria <
+| | | | | | | | | | | | | n/Cauda curta
+| | | | | | | | | | | | | | > Marmota <
+| | | | | | | | | | | n/Cauda
+| | | | | | | | | | | | > Capivara <
+| | | | | | | | | | n/Roedor
+| | | | | | | | | | | > Wombat <
+| | | | | n/Menos de 1m
+| | | | | | Deserto
+| | | | | | | Dentes de Marfim
+| | | | | | | | > Elefante <
+| | | | | | | n/Dentes de Marfim
+| | | | | | | | +1 Bossas
+| | | | | | | | | > Camelo <
+| | | | | | | | n/+1 Bossas
+| | | | | | | | | > Dromedário <
+| | | | | | n/Deserto
+| | | | | | | Andar sobre 2 patas
+| | | | | | | | Cauda
+| | | | | | | | | Pernas alongadas
+| | | | | | | | | | > Canguru <
+| | | | | | | | | n/Pernas alongadas
+| | | | | | | | | | > Wallaby <
+| | | | | | | | n/Cauda
+| | | | | | | | | > Gorila <
+| | | | | | | n/Andar sobre 2 patas
+| | | | | | | | Cor branca e preta
+| | | | | | | | | Cascos
+| | | | | | | | | | > Zebra <
+| | | | | | | | | n/Cascos
+| | | | | | | | | | > Panda <
+| | | | | | | | n/Cor branca e preta
+| | | | | | | | | Tromba
+| | | | | | | | | | > Elefante <
+| | | | | | | | | n/Tromba
+| | | | | | | | | | > Hipopótamo <
+| | n/Herbivoro
+| | |
+n/100% Terrestre
+| Voa
+| | > Morcego <
+| n/Voa
+| | Barbatana
+| | | Relacionado com Polos
+| | | | Dentes grandes
+| | | | | > Morsa <
+| | | | n/Dentes Grandes
+| | | | | Orelhas
+| | | | | | > Leão-Marinho <
+| | | | | n/Orelhas
+| | | | | | Fora de Água
+| | | | | | | > Foca <
+| | | | | | n/Fora de Água
+| | | | | | | Chifre
+| | | | | | | | > Narval <
+| | | | | | | n/Chifre
+| | | | | | | | Preto
+| | | | | | | | | > Orca <
+| | | | | | | | n/Preto
+| | | | | | | | | > Beluga <
+| | | n/Relacionado com Polo
+| | | | Barbatana Dorsal
+| | | | | Preto
+| | | | | | > Orca <
+| | | | | n/Preto
+| | | | | | Maior animal
+| | | | | | | > Baleia <
+| | | | | | n/Maior animal
+| | | | | | | Focinho comprido
+| | | | | | | | > Golfinho <
+| | | | | | | n/Focinho comprido
+| | | | | | | | > Toninha <
+| | | | n/Barbatana Dorsal
+| | | | | Terra
+| | | | | | > Elefante-Marinho <
+| | | | | n/Terra
+| | | | | | | Herbívoro
+| | | | | | | | > Peixe-Boi <
+| | | | | | | n/Herbívoro
+| | | | | | | | > Dugongo <
+| | n/Barbatana
+| | | Madeira
+| | | | > Castor <
+| | | n/Madeira
+| | | | Herbivoro
+| | | | | Cauda longa
+| | | | | | > Ratão-do-banhado <
+| | | | | n/Cauda longa
+| | | | | | Grande porte
+| | | | | | | > Hipopotamo <
+| | | | | | n/Grande porte
+| | | | | | | > Capivara <
+| | | | n/Herbivoro
+| | | | | Ovos
+| | | | | | > Ornitorrinco <
+| | | | | n/Ovos
+| | | | | | > Lontra <

@@ -1,0 +1,65 @@
+Site: https://www.generatormix.com/random-mammal
+
+F = Floresta
+B = Bosque
+S = Savana
+P = Planicie
+Pr = Prado
+M = Montanha
+D = Deserto
+H = Humano
+
+[C] = Carnivoro
+[H] = Herbivoro
+[O] = Omnívoro
+
+Terrestre:
+
+Arminho F [C]
+Chita S [C]
+Coiote F [C]
+Diabo-da-tasmânia ? [C]
+Dingo ? [C]
+Doninha B ou Pr [C]
+Fossa S [C]
+Fuinha F [C]
+Glutão ? [C]
+Jaguar F [C]
+Hiena S [C]
+Leão S ou P [C]
+Leopardo S ou F ou B ou M ou D [C]
+Lince B [C]
+Lobo F ou B ou D ou M [C]
+Mangusto ? [C]
+Marta B [C]
+Ocelote ? [C]
+Onça F ou P [C]
+Papa-Formiga F ou S [C]
+Pantera F [C]
+Porco-formigueiro ? [C]
+Suricata S ou D [C]
+Tatu F ou S [C]
+Tigre F ou B [C]
+Toupeira F ou Pr [C]
+
+
+Anta F [O]
+Babuino S [O]
+Chimpanze F [O]
+Esquilo B [O]
+Gambá F [O]
+Gineta F [O]
+Guaxinim ? [O]
+Humano H [O]
+Javali F [O]
+Jupará ? [O]
+Lémure F [O]
+Leirão F [O]
+Macaco F ou S [O]
+Orangotango F [O]
+Panda-Vermelho F [O]
+Raposa F ou B ou ? [O]
+Sacarrabos Pr [O]
+Saguíno F [O]
+Texugo F ou M [O]
+Urso F ou M [O]
