@@ -81,7 +81,7 @@
 | | | | | Lã
 | | | | | | Orelhas pontiagudas
 | | | | | | | > Lhama <
-| | | | | | n/Orealhas pontiagudas
+| | | | | | n/Orelhas pontiagudas
 | | | | | | | > Alpaca <
 | | | | | n/Lã
 | | | | | | Cornos
@@ -212,7 +212,22 @@
 | | | | | | | | | n/Tromba
 | | | | | | | | | | > Hipopótamo <
 | | n/Herbivoro
-| | |
+| | | Felino
+| | | | > Chita <
+| | | n/Felino
+| | | | Canídeo
+| | | | | Geralmente Alaranjado
+| | | | | | > Dingo <
+| | | | | n/Geralmente Alaranjado
+| | | | | | > Coitote <
+| | | | n/Canídeo
+| | | | | Corpo Longo
+| | | | | | Ponta da Cauda Preta
+| | | | | | | > Arminho <
+| | | | | | n/Ponta da Cauda Preta
+| | | | | | | > Doninha <
+| | | | | n/Corpo Longo
+| | | | | | > Diabo-da-tasmânia <
 n/100% Terrestre
 | Voa
 | | > Morcego <
