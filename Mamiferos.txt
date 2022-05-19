@@ -15,12 +15,12 @@ H = Humano
 
 Terrestre:
 
-Arminho F [C]
-Chita S [C]
-Coiote F [C]
-Diabo-da-tasmânia ? [C]
-Dingo ? [C]
-Doninha B ou Pr [C]
+Arminho F [C] (x)
+Chita S [C] (x)
+Coiote F [C] (x)
+Diabo-da-tasmânia ? [C] (x)
+Dingo ? [C] (x)
+Doninha B ou Pr [C] (x)
 Fossa S [C]
 Fuinha F [C]
 Glutão ? [C]
