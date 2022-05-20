@@ -15,40 +15,13 @@ H = Humano
 
 Terrestre:
 
-Arminho F [C] (x)
-Chita S [C] (x)
-Coiote F [C] (x)
-Diabo-da-tasmânia ? [C] (x)
-Dingo ? [C] (x)
-Doninha B ou Pr [C] (x)
-Fossa S [C] (x)
-Fuinha F [C] (x)
-Glutão ? [O/C] (x)
-Jaguar F [C] (x)
-Hiena S [C] (x)
-Leão S ou P [C]
-Leopardo S ou F ou B ou M ou D [C]
-Lince B [C]
-Lobo F ou B ou D ou M [C]
-Mangusto ? [C]
-Marta B [C]
-Ocelote ? [C]
-Onça F ou P [C]
-Papa-Formiga F ou S [C]
-Pantera F [C]
-Porco-formigueiro ? [C]
-Suricata S ou D [C]
-Tatu F ou S [C]
-Tigre F ou B [C]
-Toupeira F ou Pr [C]
-
-
 Anta F [O]
 Babuino S [O]
 Chimpanze F [O]
 Esquilo B [O]
 Gambá F [O]
 Gineta F [O]
+Glutão ? [O]
 Guaxinim ? [O]
 Humano H [O]
 Javali F [O]
