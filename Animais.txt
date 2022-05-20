@@ -213,33 +213,69 @@
 | | | | | | | | | | > Hipopótamo <
 | | n/Herbivoro
 | | | Felino
-| | | | Grande Porte
-| | | | | > Jaguar <
-| | | | n/Grande Porte
-| | | | | > Chita <
+| | | | Pêlo c/ Manchas Circulares
+| | | | | Orelhas Bicudas
+| | | | | | > Lince <
+| | | | | n/Orelhas Bicudas
+| | | | | | Linhas Negras à volta do Focinho
+| | | | | | | > Chita <
+| | | | | | n/Linhas Negras à volta do Focinho
+| | | | | | | Rosettas c/ Pintas no meio
+| | | | | | | | > Jaguar <
+| | | | | | | s/ Rosettas c/ Pintas no meio
+| | | | | | | | > Leopardo <
+| | | | Pêlo s/ Manchas Circulares
+| | | | | Juba
+| | | | | | > Leão <
+| | | | | s/Juba
+| | | | | | Grande Porte
+| | | | | | | > Tigre <
+| | | | | | n/Grande Porte
+| | | | | | | > Ocelote < 
 | | | n/Felino
 | | | | Canídeo
 | | | | | Geralmente Alaranjado
 | | | | | | > Dingo <
 | | | | | n/Geralmente Alaranjado
-| | | | | | > Coitote <
+| | | | | | Orelhas Redondas
+| | | | | | | > Lobo <
+| | | | | | n/Orelhas Redondas
+| | | | | | | > Coitote <
 | | | | n/Canídeo
 | | | | | Corpo Longo
 | | | | | | Pequeno Porte
-| | | | | | | Ponta da Cauda Preta
-| | | | | | | | > Arminho <
-| | | | | | | n/Ponta da Cauda Preta
-| | | | | | | | > Doninha < / > Fuinha <
+| | | | | | | Listras nas Costas
+| | | | | | | | Cauda Enorme
+| | | | | | | | | > Mangusto <
+| | | | | | | | n/Cauda Enorme
+| | | | | | | | | > Suricata <
+| | | | | | | n/Listras nas Costas
+| | | | | | | | Ponta da Cauda Preta
+| | | | | | | | | > Arminho <
+| | | | | | | | n/Ponta da Cauda Preta
+| | | | | | | | | Camada de Pêlo extra no Inverno
+| | | | | | | | | | > Marta <
+| | | | | | | | | s/Camada de Pêlo extra no Inverno
+| | | | | | | | | | > Doninha <
 | | | | | | n/Pequeno Porte
 | | | | | | | Pêlo
-| | | | | | | | Necrófago
-| | | | | | | | | > Hiena <
-| | | | | | | | n/Necrófago
-| | | | | | | | | > Glutão <
+| | | | | | | | > Hiena <
 | | | | | | | s/Pêlo
 | | | | | | | | > Fossa <
 | | | | | n/Corpo Longo
-| | | | | | > Diabo-da-tasmânia <
+| | | | | Pequeno Porte
+| | | | | | Orelhas
+| | | | | | | Armadura
+| | | | | | | | > Tatu <
+| | | | | | | s/Armadura
+| | | | | | | | > Diabo-da-tasmânia <
+| | | | | | n/Orelhas
+| | | | | | | > Toupeira <
+| | | | | n/Pequeno Porte
+| | | | | | Orelhas Grandes
+| | | | | | | > Porco-Formigueiro <
+| | | | | | n/Orelhas Grandes
+| | | | | | | > Papa-Formigas <
 n/100% Terrestre
 | Voa
 | | > Morcego <
