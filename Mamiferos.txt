@@ -21,11 +21,11 @@ Coiote F [C] (x)
 Diabo-da-tasmânia ? [C] (x)
 Dingo ? [C] (x)
 Doninha B ou Pr [C] (x)
-Fossa S [C]
-Fuinha F [C]
-Glutão ? [C]
-Jaguar F [C]
-Hiena S [C]
+Fossa S [C] (x)
+Fuinha F [C] (x)
+Glutão ? [O/C] (x)
+Jaguar F [C] (x)
+Hiena S [C] (x)
 Leão S ou P [C]
 Leopardo S ou F ou B ou M ou D [C]
 Lince B [C]
