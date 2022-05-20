@@ -213,7 +213,10 @@
 | | | | | | | | | | > Hipopótamo <
 | | n/Herbivoro
 | | | Felino
-| | | | > Chita <
+| | | | Grande Porte
+| | | | | > Jaguar <
+| | | | n/Grande Porte
+| | | | | > Chita <
 | | | n/Felino
 | | | | Canídeo
 | | | | | Geralmente Alaranjado
@@ -222,10 +225,19 @@
 | | | | | | > Coitote <
 | | | | n/Canídeo
 | | | | | Corpo Longo
-| | | | | | Ponta da Cauda Preta
-| | | | | | | > Arminho <
-| | | | | | n/Ponta da Cauda Preta
-| | | | | | | > Doninha <
+| | | | | | Pequeno Porte
+| | | | | | | Ponta da Cauda Preta
+| | | | | | | | > Arminho <
+| | | | | | | n/Ponta da Cauda Preta
+| | | | | | | | > Doninha < / > Fuinha <
+| | | | | | n/Pequeno Porte
+| | | | | | | Pêlo
+| | | | | | | | Necrófago
+| | | | | | | | | > Hiena <
+| | | | | | | | n/Necrófago
+| | | | | | | | | > Glutão <
+| | | | | | | s/Pêlo
+| | | | | | | | > Fossa <
 | | | | | n/Corpo Longo
 | | | | | | > Diabo-da-tasmânia <
 n/100% Terrestre
