@@ -33,7 +33,7 @@ ask(Last, Id) :- animal(Id),
     	           end(Last, Id).
 
 ask(_,Id) :- node(Id,Q,_,_),
-   		 write(Q),
+   		 write(Q), write(" "),
 		 input(Ans),
     		 yes(Ans) -> node(Id,_,Y,_), assert(userPath(Id,Y,true)), ask(Id,Y); 
     				 node(Id,_,_,N), assert(userPath(Id,N,false)), ask(Id,N).
