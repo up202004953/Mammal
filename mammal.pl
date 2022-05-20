@@ -25,7 +25,8 @@ input(Out) :- read(In),
 
 :- dynamic start/0.
 start :- write("> Escreva sempre em minúscula com acentuação entre áspas <"), nl,
-         ask(0,1), retractall(userPath(_,_,_)).
+         ask(0,1),
+	 retractall(userPath(_,_,_)), save.
 
 :- dynamic ask/2.
 ask(Last, Id) :- animal(Id),
@@ -111,18 +112,18 @@ add(Id, An, NewAn, Ans) :- node(Id,Q,An,Other),
     			         getId(L),
 				   retract(node(Id,Q,An,Other)),
     				   assert(node(Id,Q,L,Other)),
-    				   assert(node(L,Ans,NewAn,Ans)),
+    				   assert(node(L,Ans,NewAn,An)),
     				   assert(animal(NewAn)).
 
 add(Id, An, NewAn, Ans) :- node(Id,Q,Other,An),
     				   getId(L),
 				   retract(node(Id,Q,Other,An)),
     				   assert(node(Id,Q,Other,L)),
-    				   assert(node(L,Ans,NewAn,Ans)),
+    				   assert(node(L,Ans,NewAn,An)),
     				   assert(animal(NewAn)).
 
 :- dynamic getId/1.
-getId(L) :- findall(X,animal(X),P), length(P,L1), L is L1 + 1.
+getId(L) :- findall(X,animal(X),P), length(P,L).
 
 :- dynamic save/0.
 save :-
