@@ -212,70 +212,130 @@
 | | | | | | | | | n/Tromba
 | | | | | | | | | | > Hipopótamo <
 | | n/Herbivoro
-| | | Felino
-| | | | Pêlo c/ Manchas Circulares
-| | | | | Orelhas Bicudas
-| | | | | | > Lince <
-| | | | | n/Orelhas Bicudas
-| | | | | | Linhas Negras à volta do Focinho
-| | | | | | | > Chita <
-| | | | | | n/Linhas Negras à volta do Focinho
-| | | | | | | Rosettas c/ Pintas no meio
-| | | | | | | | > Jaguar <
-| | | | | | | s/ Rosettas c/ Pintas no meio
-| | | | | | | | > Leopardo <
-| | | | Pêlo s/ Manchas Circulares
-| | | | | Juba
-| | | | | | > Leão <
-| | | | | s/Juba
-| | | | | | Grande Porte
-| | | | | | | > Tigre <
-| | | | | | n/Grande Porte
-| | | | | | | > Ocelote < 
-| | | n/Felino
-| | | | Canídeo
-| | | | | Geralmente Alaranjado
-| | | | | | > Dingo <
-| | | | | n/Geralmente Alaranjado
-| | | | | | Orelhas Redondas
-| | | | | | | > Lobo <
-| | | | | | n/Orelhas Redondas
-| | | | | | | > Coitote <
-| | | | n/Canídeo
-| | | | | Corpo Longo
-| | | | | | Pequeno Porte
-| | | | | | | Listras nas Costas
-| | | | | | | | Cauda Enorme
-| | | | | | | | | > Mangusto <
-| | | | | | | | n/Cauda Enorme
-| | | | | | | | | > Suricata <
-| | | | | | | n/Listras nas Costas
-| | | | | | | | Ponta da Cauda Preta
-| | | | | | | | | > Arminho <
-| | | | | | | | n/Ponta da Cauda Preta
-| | | | | | | | | Camada de Pêlo extra no Inverno
-| | | | | | | | | | > Marta <
-| | | | | | | | | s/Camada de Pêlo extra no Inverno
-| | | | | | | | | | > Doninha <
-| | | | | | n/Pequeno Porte
-| | | | | | | Pêlo
-| | | | | | | | > Hiena <
-| | | | | | | s/Pêlo
-| | | | | | | | > Fossa <
-| | | | | n/Corpo Longo
-| | | | | Pequeno Porte
-| | | | | | Orelhas
-| | | | | | | Armadura
-| | | | | | | | > Tatu <
-| | | | | | | s/Armadura
-| | | | | | | | > Diabo-da-tasmânia <
-| | | | | | n/Orelhas
-| | | | | | | > Toupeira <
-| | | | | n/Pequeno Porte
-| | | | | | Orelhas Grandes
-| | | | | | | > Porco-Formigueiro <
-| | | | | | n/Orelhas Grandes
-| | | | | | | > Papa-Formigas <
+| | | Omnívero
+| | | | Primata
+| | | | | Totalmente Revestido por Pêlos
+| | | | | | Focinho Achatado
+| | | | | | | Cauda
+| | | | | | | | Cauda Curta
+| | | | | | | | | > Babuíno <
+| | | | | | | | s/Cauda Curta
+| | | | | | | | | Pequeno Porte
+| | | | | | | | | | > Saguíno <
+| | | | | | | | | n/Pequeno Porte
+| | | | | | | | | | > Macaco <
+| | | | | | | s/Cauda
+| | | | | | | | Pêlos Alaranjados
+| | | | | | | | | > Orangotango <
+| | | | | | | | n/Pêlos Alaranjados
+| | | | | | | | | > Chimpanzé <
+| | | | | | s/Focinho Achatado
+| | | | | | | < Lémur >
+| | | | | n/Totalmente Revestido por Pêlos
+| | | | | | Cauda
+| | | | | | | > Jupará <
+| | | | | | s/Cauda
+| | | | | | | > Humano <
+| | | | n/Primata
+| | | | | Peso Elevado
+| | | | | | Pêlo
+| | | | | | | Garras
+| | | | | | | | > Urso <
+| | | | | | | s/Garras
+| | | | | | | | > Javali <
+| | | | | | s/Pêlo
+| | | | | | | > Anta <
+| | | | | n/Peso Elevado
+| | | | | | Orelhas Pontiagudas
+| | | | | | | Pêlo Vermelho e Preto
+| | | | | | | | > Panda-Vermelho <
+| | | | | | | s/Pêlo Vermelho e Preto
+| | | | | | | | > Raposa <
+| | | | | | s/Orelhas Pontiagudas
+| | | | | | | | Cauda Arredondada
+| | | | | | | | | Pequeno porte
+| | | | | | | | | | > Esquilo <
+| | | | | | | | | n/Pequeno Porte
+| | | | | | | | | | > Glutão <
+| | | | | | | | n/Cauda Arredondada 
+| | | | | | | | | Cauda Listrada
+| | | | | | | | | | > Guaxinim <
+| | | | | | | | | s/Cauda Listrada
+| | | | | | | | | | Garras
+| | | | | | | | | | | > Gambá <
+| | | | | | | | | | s/Garras
+| | | | | | | | | | | > Leirão <
+| | | n/Omnívero
+| | | | Felino
+| | | | | Pêlo c/ Manchas Circulares
+| | | | | | Orelhas Bicudas
+| | | | | | | > Lince <
+| | | | | | n/Orelhas Bicudas
+| | | | | | | Linhas Negras à volta do Focinho
+| | | | | | | | > Chita <
+| | | | | | | n/Linhas Negras à volta do Focinho
+| | | | | | | | Rosettas c/ Pintas no meio
+| | | | | | | | | > Jaguar <
+| | | | | | | | s/ Rosettas c/ Pintas no meio
+| | | | | | | | | > Leopardo <
+| | | | | Pêlo s/ Manchas Circulares
+| | | | | | Juba
+| | | | | | | > Leão <
+| | | | | | s/Juba
+| | | | | | | Grande Porte
+| | | | | | | | > Tigre <
+| | | | | | | n/Grande Porte
+| | | | | | | | > Ocelote < 
+| | | | n/Felino
+| | | | | Canídeo
+| | | | | | Geralmente Alaranjado
+| | | | | | | > Dingo <
+| | | | | | n/Geralmente Alaranjado
+| | | | | | | Orelhas Redondas
+| | | | | | | | > Lobo <
+| | | | | | | n/Orelhas Redondas
+| | | | | | | | > Coitote <
+| | | | | n/Canídeo
+| | | | | | Corpo Longo
+| | | | | | | Pequeno Porte
+| | | | | | | | Listras Horizontais nas Costas
+| | | | | | | | | Cauda Enorme
+| | | | | | | | | | > Mangusto <
+| | | | | | | | | n/Cauda Enorme
+| | | | | | | | | | > Suricata <
+| | | | | | | | n/Listras Horizontais nas Costas
+| | | | | | | | | Ponta da Cauda Preta
+| | | | | | | | | | Cauda Listrada
+| | | | | | | | | | | > Gineta <
+| | | | | | | | | | n/Cauda Listrada
+| | | | | | | | | | | > Arminho <
+| | | | | | | | | n/Ponta da Cauda Preta
+| | | | | | | | | | Camada de Pêlo extra no Inverno
+| | | | | | | | | | | > Marta <
+| | | | | | | | | | s/Camada de Pêlo extra no Inverno
+| | | | | | | | | | | > Doninha <
+| | | | | | | n/Pequeno Porte
+| | | | | | | | Pêlo
+| | | | | | | | | > Hiena <
+| | | | | | | | s/Pêlo
+| | | | | | | | | > Fossa <
+| | | | | | n/Corpo Longo
+| | | | | | | Pequeno Porte
+| | | | | | | | Orelhas
+| | | | | | | | | Armadura
+| | | | | | | | | | > Tatu <
+| | | | | | | | | s/Armadura
+| | | | | | | | | | Bigodes Grandes
+| | | | | | | | | | | > Diabo-da-tasmânia <
+| | | | | | | | | | n/Bigodes Grandes
+| | | | | | | | | | | > Texugo <
+| | | | | | | | n/Orelhas
+| | | | | | | | | > Toupeira <
+| | | | | | | n/Pequeno Porte
+| | | | | | | | Orelhas Grandes
+| | | | | | | | | > Porco-Formigueiro <
+| | | | | | | | n/Orelhas Grandes
+| | | | | | | | | > Papa-Formigas <
 n/100% Terrestre
 | Voa
 | | > Morcego <
