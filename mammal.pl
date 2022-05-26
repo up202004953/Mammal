@@ -281,7 +281,7 @@ input(Out) :- read(In),
 :- dynamic start/0.
 start :- write("> Escreva sempre em minúscula com acentuação entre áspas <"), nl,
          ask(0,1),
-	 retractall(userPath(_,_,_)). %save.
+	 retractall(userPath(_,_,_)), save, !.
 
 :- dynamic ask/2.
 ask(Last, Id) :- animal(Id),
