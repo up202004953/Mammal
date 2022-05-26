@@ -133,7 +133,7 @@ animal("Lontra").
 
 :- dynamic node/4.
 node(1, "É totalmente terrestre?", 2, 113).
-node(2, "É doméstico?", 3, 32).
+node(2, "É doméstico?", 3, 31).
 node(3, "É de estimação?", 4, 14).
 node(4, "É um roedor?", 5, 12).
 node(5, "Tem espinhos?", "Ouriço-Cacheiro", 6).
@@ -162,7 +162,7 @@ node(27, "Tem mais que uma bossa?", "Camelo", "Dromedário").
 node(28, "Dá lã?", 29, 30).
 node(29, "Tem orelhas pontiagudas?", "Lhama", "Alpaca").
 node(30, "Tem cornos?", "Bufalo", "Raposa").
-node(31, "É herbívoro?", 31, 72).
+node(31, "É herbívoro?", 32, 72).
 node(32, "Tem galhadas?", 33, 38).
 node(33, "As suas galhadas são pequenas?", "Corço", 34).
 node(34, "Tem cauda pequena?", 35, "Gamo").
@@ -222,7 +222,7 @@ node(87, "É de pequeno porte?", "Esquilo", "Glutão").
 node(88, "Possui a cauda listrada?", "Guaxinim", 89).
 node(89, "Possui garras?", "Gambá", "Leirão").
 node(90, "É um felino?", 91, 97).
-node(91, "O pêlo possui manchas circulares(pintas, manchas,...)?", 91, 95).
+node(91, "O pêlo possui manchas circulares(pintas, manchas,...)?", 92, 95).
 node(92, "Possui orelhas pontiagudas?", "Lince", 93).
 node(93, "Possui linhas negras à volta do focinho?", "Chita", 94).
 node(94, "Tem rosettas(marcas em forma de flôr) com pintas no meio?", "Jaguar", "Leopardo").
@@ -276,12 +276,12 @@ input(Out) :- read(In),
     		  sub_atom(In, 1, L, _, Last),
     		  string_upper(First, Upper),
     		  atom_concat(Upper, Last, Atom),
-    	        atom_string(Atom, Out).
+    	      atom_string(Atom, Out).
 
 :- dynamic start/0.
 start :- write("> Escreva sempre em minúscula com acentuação entre áspas <"), nl,
          ask(0,1),
-	 retractall(userPath(_,_,_)), save.
+	 retractall(userPath(_,_,_)). %save.
 
 :- dynamic ask/2.
 ask(Last, Id) :- animal(Id),
@@ -310,7 +310,7 @@ verify(Id,An,Ans) :- animal(Ans) -> path(Id, An, Ans); add(Id, An, Ans).
 path(Id, An, NewAn) :- write("--- "), write(NewAn), write(" ---"), nl,
                        showAllPath(NewAn),
 		           write("--- "), write("As tuas respostas"), write(" ---"), nl,
-                       showUserPath(Id),
+                       showUserPath(1),
                        write("Enganaste-te? "),
                        input(Ans),
     		     	     path(Id, An, NewAn, Ans).
@@ -347,12 +347,12 @@ showPath(Id) :- node(BY,QY,Id,_) -> write(QY), write(" Sim"), nl, showPath(BY);
 
 :- dynamic showUserPath/1.
 showUserPath(Id) :- animal(Id) ,
-    			  write(Id), nl.
+    			  write(Id), nl, !.
 
 showUserPath(Id) :- node(Id,Q,_,_),
     			  userPath(Id,Nxt,Ans),
     			  showUserPath(Nxt),
-    			  write(Q), write(": "),
+    			  write(Q), write(" "),
     		        (Ans == true) -> write("Sim"), nl; 
     					       write("Não"), nl.
     				
