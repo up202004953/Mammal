@@ -192,7 +192,7 @@ node(57, "Tem presas?", "Facocero", 58).
 node(58, "Tem orelhas grandes?", "Lebre", 59).
 node(59, "É um roedor?", 60, "Wombat").
 node(60, "Tem cauda?", 61, "Capivara").
-node(61, "Tem espinhos?", ""Ouriço-Cacheiro", 62).
+node(61, "Tem espinhos?", "Ouriço-Cacheiro", 62).
 node(62, "A sua cauda é curta?", "Cão-da-Pradaria", "Marmota").
 node(63, "Vive no deserto?", 64, 66).
 node(64, "Tem dentes de marfim?", "Elefante", 65).
