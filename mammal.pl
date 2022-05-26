@@ -142,7 +142,7 @@ node(7, "Tem uma cauda?", 8, 11).
 node(8, "Tem uma cauda peluda?", 9, "Rato").
 node(9, "Come bolotas?", "Esquilo", "Chinchilla").  
 node(10, "Tem a palavra India no nome?", "Porquinho da India", "Hamster").
-node(11, "Tem bigodes longos?", 13, "Cão").
+node(11, "Tem bigodes longos?", 12, "Cão").
 node(12, "Tem cauda curta?", "Coelho", "Gato").
 node(13, "É da quinta?", 14, 26).
 node(14, "Tem cornos?", 15, 18).
