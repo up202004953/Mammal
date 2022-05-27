@@ -134,11 +134,11 @@ animal("Lontra").
 :- dynamic node/4.
 node(1, "É totalmente terrestre?", 2, 113).
 node(2, "É doméstico?", 3, 31).
-node(3, "É de estimação?", 4, 14).
-node(4, "É um roedor?", 5, 12).
+node(3, "É de estimação?", 4, 13).
+node(4, "É um roedor?", 5, 11).
 node(5, "Tem espinhos?", "Ouriço-Cacheiro", 6).
 node(6, "Tem um corpo longo?", "Furão", 7).
-node(7, "Tem uma cauda?", 8, 11).
+node(7, "Tem uma cauda?", 8, 10).
 node(8, "Tem uma cauda peluda?", 9, "Rato").
 node(9, "Come bolotas?", "Esquilo", "Chinchilla").  
 node(10, "Tem a palavra India no nome?", "Porquinho da India", "Hamster").
@@ -217,10 +217,10 @@ node(82, "Tem pêlo?", 83, "Anta").
 node(83, "Possui garras?", "Urso", "Javali").
 node(84, "Possui orelhas pontiagudas?", 85, 86).
 node(85, "Os seus pêlos são vermelhos e pretos?", "Panda-Vermelho", "Raposa").
-node(86, "Possui a cauda arredondada?", 87, 88).
-node(87, "É de pequeno porte?", "Esquilo", "Glutão").
-node(88, "Possui a cauda listrada?", "Guaxinim", 89).
-node(89, "Possui garras?", "Gambá", "Leirão").
+node(86, "Tem riscas negras faciais?", 87, 89).
+node(87, "Possui a cauda listrada?", "Guaxinim", 88).
+node(88, "Possui garras?", "Gambá", "Leirão").
+node(89, "É de pequeno porte?", "Esquilo", "Glutão").
 node(90, "É um felino?", 91, 97).
 node(91, "O pêlo possui manchas circulares(pintas, manchas,...)?", 92, 95).
 node(92, "Possui orelhas pontiagudas?", "Lince", 93).
