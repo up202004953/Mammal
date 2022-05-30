@@ -378,7 +378,9 @@ add(Id, An, NewAn, Ans) :- node(Id,Q,Other,An),
     				   assert(animal(NewAn)).
 
 :- dynamic getId/1.
-getId(L) :- findall(X,animal(X),P), length(P,L).
+getId(Id) :- findall(X,animal(X),P), 
+             length(P,L).
+	     Id is L+1.
 
 :- dynamic save/0.
 save :-
