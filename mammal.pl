@@ -270,7 +270,7 @@ node(131, "Poem ovos?", "Ornitorrinco", "Lontra").
 yes("Sim").
 
 :- dynamic input/1.
-input(Out) :- read(In),
+input(Out) :- nl, read(In),
     		  atom_length(In,L1), L is L1-1, 
     		  sub_atom(In, 0, 1, _, First),
     		  sub_atom(In, 1, L, _, Last),
@@ -279,7 +279,10 @@ input(Out) :- read(In),
     	      atom_string(Atom, Out).
 
 :- dynamic start/0.
-start :- write("> Escreva sempre em minúscula com acentuação entre áspas <"), nl,
+start :- write("\t\tBem vindo ao Mammal Guesser!"), nl,
+	 write("Pense num animal mamífero e nós vamos tentar adivinhar, "), nl,
+	 write("Ah, e não se esqueça de escrever sempre em minúscula com acentuação entre áspas"), nl,
+	 nl,
          ask(0,1),
 	 retractall(userPath(_,_,_)), save, !.
 
@@ -379,7 +382,7 @@ add(Id, An, NewAn, Ans) :- node(Id,Q,Other,An),
 
 :- dynamic getId/1.
 getId(Id) :- findall(X,animal(X),P), 
-             length(P,L).
+             length(P,L),
 	     Id is L+1.
 
 :- dynamic save/0.
