@@ -280,7 +280,7 @@ input(Out) :- nl, read(In),
 
 :- dynamic start/0.
 start :- write("\t\tBem vindo ao Mammal Guesser!"), nl,
-	 write("Pense num animal mamífero e nós vamos tentar adivinhar, "), nl,
+	 write("Pense num animal mamífero e eu vou tentar adivinhar, "), nl,
 	 write("Ah, e não se esqueça de escrever sempre em minúscula com acentuação entre áspas"), nl,
 	 nl,
          ask(0,1),
